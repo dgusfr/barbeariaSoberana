@@ -1,13 +1,11 @@
-# Cafeteria Brafé
+# Barbearia Soberana
 
-Este projeto tem o intuito de colocar em prática estilização CSS usando desde métricas puras até Flex Box e Grid Layout.
-
-Este site foi desenvolvido durante os meus estudos no curso de CSS estilização da Origamid ®
+Este projeto é um site para a Barbearia Soberana, destacando os serviços oferecidos, a história da barbearia e informações de contato.
 
 ## Interface
 
 <div align="center">
-  <img src="img/logo.png" alt="Imagem do Projeto" width="900">
+  <img src="img/logo.png" alt="Imagem do Projeto" width="100">
 </div>
 
 ## Sumário
@@ -17,6 +15,7 @@ Este site foi desenvolvido durante os meus estudos no curso de CSS estilização
 - [Descrição](#descrição)
 - [Funcionalidades](#funcionalidades)
 - [Explicação](#explicação)
+- [Estrutura do Projeto](#estrutura-do-projeto)
 - [Como Usar](#como-usar)
 - [Autor](#autor)
 
@@ -38,26 +37,43 @@ Este site foi desenvolvido durante os meus estudos no curso de CSS estilização
 
 ![Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
-<!-- -->
-
 ## Descrição
 
-Este projeto engloba os fundamentos de como posicionar os elementos em uma página, além do uso das propriedades e como elas agem no layout do site.
-
-<div align="center">
-  <img src="img/logo2.png" alt="Imagem do Projeto" width="900">
-</div>
+O projeto Barbearia Soberana é um site que exibe os serviços da barbearia, incluindo corte de cabelo, barba, e pacotes combinados. Além disso, o site fornece informações sobre a localização e formas de contato.
 
 ## Funcionalidades
 
-Este é um site estático, porém muito bonito e com grande imersão do usuário.
+- Exibição de serviços de barbearia
+- Informações de contato e localização
+- Integração com redes sociais
 
 ## Explicação
 
-O projeto consiste em uma pasta img com as imagens do projeto, uma pasta css com os styles do projeto e um index.html principal da aplicação.
+```html
+<footer class="footer">
+    <div class="container">
+        <div class="footer-contact">
+            <h2>Contato</h2>
+            <p>Endereço: Rua Exemplo, 123, São Paulo, SP</p>
+            <p>Telefone: (11) 1234-5678</p>
+            <p>Email: contato@barbeariaexemplo.com</p>
+        </div>
+        <div class="footer-social">
+            <h2>Siga-nos</h2>
+            <a href="#" target="_blank"><img src="img/facebook-icon.png" alt="Facebook"></a>
+            <a href="#" target="_blank"><img src="img/instagram-icon.png" alt="Instagram"></a>
+            <a href="#" target="_blank"><img src="img/twitter-icon.png" alt="Twitter"></a>
+        </div>
+    </div>
+</footer>
+``` 
 
 ## Como Usar
+`1.` Clone o repositório.
 
-1. git clone "caminhoDoRepositorio"
-2. index.html
-3. Acione a extensão Live Server
+`2.` Abra o arquivo index.html em seu navegador.
+
+`3.` Navegue pelo site para ver os serviços e informações de contato.
+
+## Autor
+Desenvolvido por Diego Franco.
