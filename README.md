@@ -47,6 +47,10 @@ O projeto Barbearia Soberana é um site que exibe os serviços da barbearia, inc
 - Informações de contato e localização
 - Integração com redes sociais
 
+<div align="center">
+  <img src="img/logo2.png" alt="Imagem do Projeto" width="100">
+</div>
+
 ## Explicação
 
 ```html
