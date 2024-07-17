@@ -5,7 +5,7 @@ Este projeto é um site para a Barbearia Soberana, destacando os serviços ofere
 ## Interface
 
 <div align="center">
-  <img src="img/logo.png" alt="Imagem do Projeto" width="100">
+  <img src="img/logo.png" alt="Imagem do Projeto" width="900">
 </div>
 
 ## Sumário
@@ -48,7 +48,7 @@ O projeto Barbearia Soberana é um site que exibe os serviços da barbearia, inc
 - Integração com redes sociais
 
 <div align="center">
-  <img src="img/logo2.png" alt="Imagem do Projeto" width="100">
+  <img src="img/logo2.png" alt="Imagem do Projeto" width="900">
 </div>
 
 ## Explicação
